@@ -1,0 +1,6 @@
+C:\Users\Bassem\Documents\SharpDevelop Projects\LearnGerman\LearnGerman\bin\Debug\LearnGerman.exe.config
+C:\Users\Bassem\Documents\SharpDevelop Projects\LearnGerman\LearnGerman\bin\Debug\LearnGerman.exe
+C:\Users\Bassem\Documents\SharpDevelop Projects\LearnGerman\LearnGerman\bin\Debug\LearnGerman.pdb
+C:\Users\Bassem\Documents\SharpDevelop Projects\LearnGerman\LearnGerman\obj\Debug\LearnGerman.vbprojResolveAssemblyReference.cache
+C:\Users\Bassem\Documents\SharpDevelop Projects\LearnGerman\LearnGerman\obj\Debug\LearnGerman.exe
+C:\Users\Bassem\Documents\SharpDevelop Projects\LearnGerman\LearnGerman\obj\Debug\LearnGerman.pdb
